@@ -180,6 +180,7 @@
                         </executions>
                     </plugin>
                 </plugins>
+               <finalName>jettyjavase-1.0-SNAPSHOT</finalName>
             </build>
         </profile>
     </profiles>
